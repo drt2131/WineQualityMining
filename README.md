@@ -1,2 +1,2 @@
-# WineQualityMining
-Analysis of wine quality dataset
+# Wine Quality Mining
+This projects mines the red wine and white wine datasets from UC Irvine's Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality) for insights. It tackles the question, "what physiochemical properties influence the quality of wine?" by running various algorithms to explore relationships between observations, features, and response/independent variables. If someone wanted to recreate my study, the data can be downloaded above and assessed using k-means clustering, PCA, OLS, LASSO, and OLS With PCA.
